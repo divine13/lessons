@@ -1,10 +1,13 @@
 Lessons
 =======
 
-##### Lesson 1
-* [First Ruby class: Rectangle](rectangle.rb)
+##### Lesson 1: Classes
+* [Rectangle](rectangle.rb)
 
-##### Lesson 2
-* [Second Ruby class: Square](square.rb)
-* [Third Ruby class: LongRec](long_rec.rb)
-* [Homework class: Circle](circle.rb)
+##### Lesson 2: Inheritance
+* [Square](square.rb)
+* [LongRec](long_rec.rb)
+* [Homework: Circle](circle.rb)
+
+##### Lesson 3: Loops
+* [Shopping](shopping.rb)
