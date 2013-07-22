@@ -6,4 +6,5 @@ Lessons
 
 ##### Lesson 2
 * [Second Ruby class: Square](square.rb)
-* [Second Ruby class: LongRec](long_rec.rb)
+* [Third Ruby class: LongRec](long_rec.rb)
+* [Homework class: Circle](circle.rb)
