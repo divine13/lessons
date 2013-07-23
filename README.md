@@ -11,3 +11,4 @@ Lessons
 
 ##### Lesson 3: Loops
 * [Shopping](shopping.rb)
+* [for and each](for_and_each.rb)
