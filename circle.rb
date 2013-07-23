@@ -8,7 +8,7 @@ class Circle
 
   def initialize(r)
     @radius = r.to_i
-    @PI = 3.14
+    @PI = Math::PI
   end
 
   def radius
