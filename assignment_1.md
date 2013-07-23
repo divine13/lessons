@@ -1,4 +1,4 @@
-# Homework 2
+# Assignment 1
 
 Write a `Car` class.
 

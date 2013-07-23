@@ -7,7 +7,7 @@ Lessons
 ##### Lesson 2: Inheritance
 * [Square](square.rb)
 * [LongRec](long_rec.rb)
-* [Homework: Circle](circle.rb)
+* [Circle](circle.rb)
 
 ##### Lesson 3: Loops
 * [Shopping](shopping.rb)
