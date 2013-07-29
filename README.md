@@ -15,3 +15,4 @@ Lessons
 
 ##### Lesson 4: Blocks
 * [Blocks](blocks.rb)
+* [Eumerable](enumerable.rb)
