@@ -1,12 +1,15 @@
-def yield_names
-  yield "Erik", "Michaels-Ober"
-  yield "Maja", "Komel"
-  yield "Nina", "Breznik"
+# Behavior defined in a method
+def add_five(number)
+  puts number + 5
 end
 
-print "Enter a greeting: "
-greeting = gets.chomp
+# Data passed to the method in an argument
+add_five(2)
 
-yield_names do |first, last|
-  puts "#{greeting} #{first} #{last}"
+# Data defined in a method
+def two(&block)
+  block.call(2)
 end
+
+# Behavior passed to the method in a block argument
+two{|number| puts number + 5}

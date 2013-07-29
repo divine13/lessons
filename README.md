@@ -15,4 +15,5 @@ Lessons
 
 ##### Lesson 4: Blocks
 * [Blocks](blocks.rb)
+* [Yield](yield.rb)
 * [Eumerable](enumerable.rb)
