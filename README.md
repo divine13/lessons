@@ -17,3 +17,4 @@ Lessons
 * [Blocks](blocks.rb)
 * [Yield](yield.rb)
 * [Eumerable](enumerable.rb)
+* [Procs](procs.rb)
