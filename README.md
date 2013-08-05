@@ -18,3 +18,6 @@ Lessons
 * [Yield](yield.rb)
 * [Eumerable](enumerable.rb)
 * [Procs](procs.rb)
+
+##### Lesson 5: Modules
+* [Modules](modules.rb)
