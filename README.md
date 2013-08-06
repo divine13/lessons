@@ -23,3 +23,7 @@ Lessons
 * [Mixins](mixins.rb)
 * [Namespaces](namespaces.rb)
 * [Extend](extend.rb)
+
+##### Lesson 6: Control structures
+* [if...elsif...else...end](if.rb)
+* [case...when...else...end](case.rb)
