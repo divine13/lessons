@@ -28,4 +28,11 @@ class Person < Speaker
   include Questioner
 end
 
-Person.new.say("wtf")
+class Cow < Speaker
+  include Yeller
+  include Questioner
+  include Exclaimer
+end
+
+Person.new.say("wtf") # WTF!?
+Cow.new.say("moo")    # MOO?!
