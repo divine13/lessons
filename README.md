@@ -20,4 +20,4 @@ Lessons
 * [Procs](procs.rb)
 
 ##### Lesson 5: Modules
-* [Modules](modules.rb)
+* [Mixins](mixins.rb)
