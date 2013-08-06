@@ -21,3 +21,4 @@ Lessons
 
 ##### Lesson 5: Modules
 * [Mixins](mixins.rb)
+* [Namespaces](namespaces.rb)
