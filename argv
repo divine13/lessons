@@ -1,0 +1,5 @@
+#!/usr/bin/env ruby
+
+puts "The first command-line argument: #{ARGV[0]}"
+puts "The second command-line argument: #{ARGV[1]}"
+puts "The third command-line argument: #{ARGV[2]}"

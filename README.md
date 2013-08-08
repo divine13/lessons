@@ -27,3 +27,6 @@ Lessons
 ##### Lesson 6: Control structures
 * [if...elsif...else...end](if.rb)
 * [case...when...else...end](case.rb)
+
+##### Lesson 7: Scripting
+* [ARGV](argv)
