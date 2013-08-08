@@ -30,3 +30,9 @@ Lessons
 
 ##### Lesson 7: Scripting
 * [ARGV](argv)
+
+##### Lesson 8: Regular Expressions
+* [IP Validator](ip_validator.rb)
+
+##### Lesson 9: Testing with RSpec
+* [IP Validator Spec](ip_validator_spec.rb)
