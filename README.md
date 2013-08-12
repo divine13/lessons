@@ -37,3 +37,6 @@ Lessons
 
 ##### Lesson 9: Testing with RSpec
 * [IP Validator Spec](ip_validator_spec.rb)
+
+##### Lesson 10: Exceptions
+* [Exceptions](exceptions.rb)
